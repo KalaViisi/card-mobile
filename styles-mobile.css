@@ -30,7 +30,7 @@ body {
   background:
     linear-gradient(hsl(277, 100%, 25%, 0.5),
       hsl(277, 100%, 25%, 0.5)),
-    url(image-header-mobile.jpg);
+    url(pictures/image-header-mobile.jpg);
   background-size: contain;
   width: auto;
   height: 247px;
